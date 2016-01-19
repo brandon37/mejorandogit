@@ -1,0 +1,29 @@
+commit 9fbb43164d20251337e23f71b91ae1ce20ff5d03
+Author: Brandon Rosales <brandonedu9@hotmail.com>
+Date:   Tue Jan 19 09:27:49 2016 -0600
+
+    backgorund blue
+
+commit 865a97b8e7e7fe314a3e4913ebb873a52d031278
+Author: Brandon Rosales <brandonedu9@hotmail.com>
+Date:   Tue Jan 19 09:24:59 2016 -0600
+
+    background pink
+
+commit cc4568f85fb5531f7be32d329a9e3f6a49c0f1f1
+Author: Brandon Rosales <brandonedu9@hotmail.com>
+Date:   Tue Jan 19 09:12:52 2016 -0600
+
+    Redes sociales
+
+commit 64d0fe2f2dbb6b7f8d25e654f9e82a8448c7b74c
+Author: Brandon Rosales <brandonedu9@hotmail.com>
+Date:   Mon Jan 18 11:17:16 2016 -0600
+
+    perfil web
+
+commit 062f433882c78f5e16c5713d4f74a4f1a06f1d6f
+Author: Brandon Rosales <brandonedu9@hotmail.com>
+Date:   Mon Jan 18 11:04:09 2016 -0600
+
+    plantilla
